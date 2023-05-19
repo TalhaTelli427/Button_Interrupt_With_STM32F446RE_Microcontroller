@@ -1,0 +1,4 @@
+../Core/Src/TT_LED_DRIVER.c:9:6:Led_init	4	static
+../Core/Src/TT_LED_DRIVER.c:18:6:Led_OFF	4	static
+../Core/Src/TT_LED_DRIVER.c:24:6:Led_On	4	static
+../Core/Src/TT_LED_DRIVER.c:29:6:LED_Toggle	4	static
